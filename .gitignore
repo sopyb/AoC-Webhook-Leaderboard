@@ -18,6 +18,7 @@ dist/
 
 # Project specific
 discord_messages.json
+bot.log
 
 # IDE
 .idea/
