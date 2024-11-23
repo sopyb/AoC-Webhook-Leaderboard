@@ -1,11 +1,12 @@
 import requests
 import json
-from datetime import datetime
+from datetime import datetime, timezone
 import os
 import time
 import signal
 import sys
 import logging
+from typing import TextIO
 from dotenv import load_dotenv
 
 
@@ -172,7 +173,7 @@ class AoCDiscordBot:
                 embed = {
                     "title": f"🎄 Advent of Code Leaderboard 🎄 (Top {i + 1}-{i + len(chunk)})",
                     "fields": fields,
-                    "timestamp": datetime.utcnow().isoformat(),
+                    "timestamp": datetime.now(timezone.utc).isoformat(),
                     "color": 0x00ff00
                 }
                 all_embeds.append(embed)
@@ -261,14 +262,16 @@ class AoCDiscordBot:
                 existing_message_ids.extend(new_message_ids)
 
             # Update existing messages
-            self.edit_discord_message(existing_message_ids[:len(messages)], messages)
+            self.edit_discord_message(existing_message_ids[:len(messages)],
+                                      messages)
 
             # Delete any extra messages
             for message_id in existing_message_ids[len(messages):]:
                 self.delete_discord_message(message_id)
 
             # Update stored message IDs
-            self.stored_messages[year_key] = existing_message_ids[:len(messages)]
+            self.stored_messages[year_key] = existing_message_ids[
+                                             :len(messages)]
             self.save_message_id(year, self.stored_messages[year_key])
 
         except Exception as e:
