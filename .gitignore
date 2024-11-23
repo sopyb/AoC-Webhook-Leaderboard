@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.venv/
+env/
+venv/
+ENV/
+
+# Poetry
+dist/
+*.egg-info/
+
+# Environment variables
+.env
+
+# Project specific
+discord_messages.json
+
+# IDE
+.idea/
+.vscode/
+
+# Nix stuff
+.direnv

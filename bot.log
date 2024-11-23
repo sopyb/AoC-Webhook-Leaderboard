@@ -1,0 +1,1536 @@
+2024-11-23 23:05:32,647 - INFO - Starting bot with 900 seconds update interval
+2024-11-23 23:05:32,647 - INFO - Updating leaderboard...
+2024-11-23 23:05:33,719 - INFO - Update successful
+2024-11-23 23:10:53,986 - INFO - Received shutdown signal. Cleaning up...
+2024-11-23 23:11:12,142 - INFO - Starting bot with 900 seconds update interval
+2024-11-23 23:11:12,142 - INFO - Updating leaderboard...
+2024-11-23 23:11:13,261 - INFO - Update successful
+2024-11-23 23:14:49,636 - INFO - Received shutdown signal. Cleaning up...
+2024-11-23 23:15:51,137 - INFO - Starting bot with 900 seconds update interval
+2024-11-23 23:15:51,138 - INFO - Updating leaderboard...
+2024-11-23 23:15:52,433 - INFO - Update successful
+2024-11-23 23:17:03,667 - INFO - Received shutdown signal. Cleaning up...
+2024-11-23 23:17:13,027 - INFO - Starting bot with 900 seconds update interval
+2024-11-23 23:17:13,027 - INFO - Updating leaderboard...
+2024-11-23 23:17:14,652 - INFO - Update successful
+2024-11-23 23:19:18,143 - INFO - Received shutdown signal. Cleaning up...
+2024-11-23 23:19:19,805 - INFO - Starting bot with 20 seconds update interval
+2024-11-23 23:19:19,805 - INFO - Updating leaderboard...
+2024-11-23 23:19:21,122 - INFO - Update successful
+2024-11-23 23:19:39,805 - INFO - Updating leaderboard...
+2024-11-23 23:19:41,298 - INFO - Update successful
+2024-11-23 23:19:59,806 - INFO - Updating leaderboard...
+2024-11-23 23:20:01,168 - INFO - Update successful
+2024-11-23 23:20:18,035 - INFO - Received shutdown signal. Cleaning up...
+2024-11-23 23:20:19,806 - INFO - Bot shutdown complete
+2024-11-23 23:23:15,157 - INFO - Starting bot with 900 seconds update interval
+2024-11-23 23:23:15,157 - INFO - Updating leaderboard...
+2024-11-23 23:23:17,207 - INFO - Received shutdown signal. Cleaning up...
+2024-11-23 23:23:17,523 - ERROR - Error updating leaderboard: Failed to send Discord message: 400
+2024-11-23 23:23:17,524 - INFO - Update successful
+2024-11-23 23:23:20,713 - INFO - Starting bot with 900 seconds update interval
+2024-11-23 23:23:20,714 - INFO - Updating leaderboard...
+2024-11-23 23:23:24,485 - ERROR - Error updating leaderboard: Failed to send Discord message: 400
+2024-11-23 23:23:24,486 - INFO - Update successful
+2024-11-23 23:23:52,663 - INFO - Received shutdown signal. Cleaning up...
+2024-11-23 23:23:55,421 - INFO - Starting bot with 900 seconds update interval
+2024-11-23 23:23:55,421 - INFO - Updating leaderboard...
+2024-11-23 23:24:02,826 - ERROR - Error updating leaderboard: Failed to send Discord message: 400
+2024-11-23 23:24:02,827 - INFO - Update successful
+2024-11-23 23:25:19,273 - INFO - Received shutdown signal. Cleaning up...
+2024-11-23 23:25:20,652 - INFO - Starting bot with 900 seconds update interval
+2024-11-23 23:25:20,652 - INFO - Updating leaderboard...
+2024-11-23 23:25:24,669 - ERROR - Error updating leaderboard: Failed to send Discord message: 400
+2024-11-23 23:25:24,670 - INFO - Update successful
+2024-11-23 23:25:28,051 - INFO - Received shutdown signal. Cleaning up...
+2024-11-23 23:28:41,688 - INFO - Starting bot with 900 seconds update interval
+2024-11-23 23:28:41,688 - INFO - Updating leaderboard...
+2024-11-23 23:28:47,553 - ERROR - Error updating leaderboard: Failed to send Discord message: 400
+2024-11-23 23:28:47,554 - INFO - Update successful
+2024-11-23 23:30:34,857 - INFO - Received shutdown signal. Cleaning up...
+2024-11-23 23:30:39,271 - INFO - Starting bot with 900 seconds update interval
+2024-11-23 23:30:39,272 - INFO - Updating leaderboard...
+2024-11-23 23:30:43,998 - ERROR - Error updating leaderboard: Failed to send Discord message: 400
+2024-11-23 23:30:43,999 - INFO - Update successful
+2024-11-23 23:32:09,099 - INFO - Received shutdown signal. Cleaning up...
+2024-11-23 23:32:17,912 - INFO - Starting bot with 900 seconds update interval
+2024-11-23 23:32:17,912 - INFO - Updating leaderboard...
+2024-11-23 23:32:19,701 - ERROR - Error updating leaderboard: Failed to send Discord message: 400
+2024-11-23 23:32:19,702 - INFO - Update successful
+2024-11-23 23:33:37,402 - INFO - Received shutdown signal. Cleaning up...
+2024-11-23 23:33:46,501 - INFO - Starting bot with 900 seconds update interval
+2024-11-23 23:33:46,501 - INFO - Updating leaderboard...
+2024-11-23 23:33:48,867 - ERROR - Error updating leaderboard: Failed to send Discord message: 400
+2024-11-23 23:33:48,868 - INFO - Update successful
+2024-11-23 23:34:16,707 - INFO - Received shutdown signal. Cleaning up...
+2024-11-23 23:34:48,869 - INFO - Bot shutdown complete
+2024-11-23 23:34:54,378 - INFO - Starting bot with 900 seconds update interval
+2024-11-23 23:34:54,378 - INFO - Updating leaderboard...
+2024-11-23 23:34:56,452 - ERROR - Error updating leaderboard: Failed to send Discord message: 400
+2024-11-23 23:34:56,453 - INFO - Update successful
+2024-11-23 23:34:59,122 - INFO - Received shutdown signal. Cleaning up...
+2024-11-23 23:35:56,453 - INFO - Bot shutdown complete
+2024-11-23 23:36:48,392 - INFO - Starting bot with 900 seconds update interval
+2024-11-23 23:36:48,392 - INFO - Updating leaderboard...
+2024-11-23 23:36:52,615 - ERROR - Error updating leaderboard: Failed to send Discord message: 400
+2024-11-23 23:36:52,615 - INFO - Update successful
+2024-11-23 23:36:55,398 - INFO - Received shutdown signal. Cleaning up...
+2024-11-23 23:37:52,616 - INFO - Bot shutdown complete
+2024-11-23 23:38:27,073 - INFO - Starting bot with 900 seconds update interval
+2024-11-23 23:38:27,073 - INFO - Updating leaderboard...
+2024-11-23 23:38:29,268 - ERROR - Error updating leaderboard: Failed to send Discord message: 400
+2024-11-23 23:38:29,269 - INFO - Update successful
+2024-11-23 23:39:49,907 - INFO - Received shutdown signal. Cleaning up...
+2024-11-23 23:39:52,382 - INFO - Starting bot with 900 seconds update interval
+2024-11-23 23:39:52,382 - INFO - Updating leaderboard...
+2024-11-23 23:39:55,600 - ERROR - Error updating leaderboard: Failed to send Discord message: 400
+2024-11-23 23:39:55,601 - INFO - Update successful
+2024-11-23 23:40:28,640 - INFO - Received shutdown signal. Cleaning up...
+2024-11-23 23:40:33,621 - INFO - Starting bot with 900 seconds update interval
+2024-11-23 23:40:33,621 - INFO - Updating leaderboard...
+2024-11-23 23:40:37,554 - ERROR - Error updating leaderboard: Failed to send Discord message: 400
+2024-11-23 23:40:37,555 - INFO - Update successful
+2024-11-23 23:40:38,272 - INFO - Received shutdown signal. Cleaning up...
+2024-11-23 23:41:37,555 - INFO - Bot shutdown complete
+2024-11-23 23:43:12,369 - INFO - Starting bot with 900 seconds update interval
+2024-11-23 23:43:12,369 - INFO - Updating leaderboard...
+2024-11-23 23:43:14,941 - ERROR - Error updating leaderboard: Failed to send Discord message: 400
+2024-11-23 23:43:14,942 - INFO - Update successful
+2024-11-23 23:43:16,921 - INFO - Received shutdown signal. Cleaning up...
+2024-11-23 23:44:14,942 - INFO - Bot shutdown complete
+2024-11-23 23:49:48,228 - INFO - Starting bot with 900 seconds update interval
+2024-11-23 23:49:48,228 - INFO - Updating leaderboard...
+2024-11-23 23:49:52,366 - INFO - Update successful
+2024-11-23 23:50:52,996 - INFO - Received shutdown signal. Cleaning up...
+2024-11-23 23:50:55,538 - INFO - Starting bot with 10 seconds update interval
+2024-11-23 23:50:55,538 - INFO - Updating leaderboard...
+2024-11-23 23:51:00,596 - INFO - Update successful
+2024-11-23 23:51:05,538 - INFO - Updating leaderboard...
+2024-11-23 23:51:10,116 - INFO - Update successful
+2024-11-23 23:51:15,538 - INFO - Updating leaderboard...
+2024-11-23 23:51:18,469 - INFO - Update successful
+2024-11-23 23:51:25,538 - INFO - Updating leaderboard...
+2024-11-23 23:51:31,111 - INFO - Received shutdown signal. Cleaning up...
+2024-11-23 23:51:31,237 - INFO - Update successful
+2024-11-23 23:51:35,538 - INFO - Bot shutdown complete
+2024-11-23 23:52:31,331 - INFO - Starting bot with 10 seconds update interval
+2024-11-23 23:52:31,331 - INFO - Updating leaderboard...
+2024-11-23 23:52:33,651 - INFO - Update successful
+2024-11-23 23:52:41,331 - INFO - Updating leaderboard...
+2024-11-23 23:52:42,663 - INFO - Update successful
+2024-11-23 23:52:51,332 - INFO - Updating leaderboard...
+2024-11-23 23:52:53,722 - INFO - Update successful
+2024-11-23 23:52:59,515 - INFO - Received shutdown signal. Cleaning up...
+2024-11-23 23:53:01,332 - INFO - Bot shutdown complete
+2024-11-23 23:57:34,008 - INFO - Starting bot with 10 seconds update interval
+2024-11-23 23:57:34,008 - INFO - Updating leaderboard...
+2024-11-23 23:57:34,919 - ERROR - Error updating leaderboard: '<' not supported between instances of 'NoneType' and 'str'
+2024-11-23 23:57:34,920 - INFO - Update successful
+2024-11-23 23:57:44,009 - INFO - Updating leaderboard...
+2024-11-23 23:57:44,953 - ERROR - Error updating leaderboard: '<' not supported between instances of 'str' and 'NoneType'
+2024-11-23 23:57:44,953 - INFO - Update successful
+2024-11-23 23:57:54,009 - INFO - Updating leaderboard...
+2024-11-23 23:57:54,886 - ERROR - Error updating leaderboard: '<' not supported between instances of 'NoneType' and 'str'
+2024-11-23 23:57:54,886 - INFO - Update successful
+2024-11-23 23:58:04,009 - INFO - Updating leaderboard...
+2024-11-23 23:58:04,819 - ERROR - Error updating leaderboard: '<' not supported between instances of 'str' and 'NoneType'
+2024-11-23 23:58:04,819 - INFO - Update successful
+2024-11-23 23:58:14,009 - INFO - Updating leaderboard...
+2024-11-23 23:58:15,059 - ERROR - Error updating leaderboard: '<' not supported between instances of 'NoneType' and 'str'
+2024-11-23 23:58:15,059 - INFO - Update successful
+2024-11-23 23:58:20,725 - INFO - Received shutdown signal. Cleaning up...
+2024-11-23 23:58:24,010 - INFO - Bot shutdown complete
+2024-11-24 00:00:54,846 - INFO - Starting bot with 10 seconds update interval
+2024-11-24 00:00:54,846 - INFO - Updating leaderboard...
+2024-11-24 00:00:55,933 - ERROR - Error updating leaderboard: '<' not supported between instances of 'NoneType' and 'str'
+2024-11-24 00:00:55,933 - INFO - Update successful
+2024-11-24 00:00:58,457 - INFO - Received shutdown signal. Cleaning up...
+2024-11-24 00:01:04,846 - INFO - Bot shutdown complete
+2024-11-24 00:02:37,339 - INFO - Starting bot with 10 seconds update interval
+2024-11-24 00:02:37,339 - INFO - Updating leaderboard...
+2024-11-24 00:02:39,150 - ERROR - Error updating leaderboard: Failed to delete Discord message: 404
+2024-11-24 00:02:39,150 - INFO - Update successful
+2024-11-24 00:02:40,202 - INFO - Received shutdown signal. Cleaning up...
+2024-11-24 00:02:47,339 - INFO - Bot shutdown complete
+2024-11-24 00:05:23,632 - INFO - Starting bot with 10 seconds update interval
+2024-11-24 00:05:23,632 - INFO - Updating leaderboard...
+2024-11-24 00:05:25,654 - INFO - Update successful
+2024-11-24 00:05:33,633 - INFO - Updating leaderboard...
+2024-11-24 00:05:35,254 - INFO - Update successful
+2024-11-24 00:05:43,633 - INFO - Updating leaderboard...
+2024-11-24 00:05:45,311 - INFO - Update successful
+2024-11-24 00:05:48,468 - INFO - Received shutdown signal. Cleaning up...
+2024-11-24 00:05:53,633 - INFO - Bot shutdown complete
+2024-11-24 00:08:07,003 - INFO - Starting bot with 10 seconds update interval
+2024-11-24 00:08:07,003 - INFO - Updating leaderboard...
+2024-11-24 00:08:08,780 - INFO - Update successful
+2024-11-24 00:08:14,503 - INFO - Received shutdown signal. Cleaning up...
+2024-11-24 00:08:17,003 - INFO - Bot shutdown complete
+2024-11-24 00:09:09,221 - INFO - Starting bot with 10 seconds update interval
+2024-11-24 00:09:09,221 - INFO - Updating leaderboard...
+2024-11-24 00:09:10,431 - INFO - Received shutdown signal. Cleaning up...
+2024-11-24 00:09:11,757 - INFO - Update successful
+2024-11-24 00:09:19,221 - INFO - Bot shutdown complete
+2024-11-24 00:10:44,720 - INFO - Starting bot with 10 seconds update interval
+2024-11-24 00:10:44,721 - INFO - Updating leaderboard...
+2024-11-24 00:10:46,783 - INFO - Update successful
+2024-11-24 00:10:54,721 - INFO - Updating leaderboard...
+2024-11-24 00:10:56,927 - INFO - Update successful
+2024-11-24 00:10:59,330 - INFO - Received shutdown signal. Cleaning up...
+2024-11-24 00:11:04,721 - INFO - Bot shutdown complete
+2024-11-24 00:12:52,292 - INFO - Starting bot with 10 seconds update interval
+2024-11-24 00:12:52,292 - INFO - Updating leaderboard...
+2024-11-24 00:12:53,427 - INFO - Update successful
+2024-11-24 00:13:02,292 - INFO - Updating leaderboard...
+2024-11-24 00:13:03,797 - INFO - Update successful
+2024-11-24 00:13:04,145 - INFO - Received shutdown signal. Cleaning up...
+2024-11-24 00:13:12,292 - INFO - Bot shutdown complete
+2024-11-24 00:16:01,219 - INFO - Starting bot with 10 seconds update interval
+2024-11-24 00:16:01,219 - INFO - Updating leaderboard...
+2024-11-24 00:16:02,692 - INFO - Update successful
+2024-11-24 00:16:11,219 - INFO - Updating leaderboard...
+2024-11-24 00:16:12,112 - INFO - Update successful
+2024-11-24 00:16:13,246 - INFO - Received shutdown signal. Cleaning up...
+2024-11-24 00:16:21,219 - INFO - Bot shutdown complete
+2024-11-24 00:17:45,438 - INFO - Starting bot with 10 seconds update interval
+2024-11-24 00:17:45,438 - INFO - Updating leaderboard...
+2024-11-24 00:17:46,732 - ERROR - Error updating leaderboard: Failed to edit Discord message: 400
+2024-11-24 00:17:46,733 - INFO - Update successful
+2024-11-24 00:17:48,019 - INFO - Received shutdown signal. Cleaning up...
+2024-11-24 00:17:55,439 - INFO - Bot shutdown complete
+2024-11-24 00:18:12,765 - INFO - Starting bot with 10 seconds update interval
+2024-11-24 00:18:12,765 - INFO - Updating leaderboard...
+2024-11-24 00:18:14,072 - ERROR - Error updating leaderboard: Failed to edit Discord message: 400
+2024-11-24 00:18:14,072 - INFO - Update successful
+2024-11-24 00:18:17,221 - INFO - Received shutdown signal. Cleaning up...
+2024-11-24 00:18:22,765 - INFO - Bot shutdown complete
+2024-11-24 00:18:45,412 - INFO - Starting bot with 10 seconds update interval
+2024-11-24 00:18:45,412 - INFO - Updating leaderboard...
+2024-11-24 00:18:46,533 - ERROR - Error updating leaderboard: Failed to edit Discord message: 400
+2024-11-24 00:18:46,534 - INFO - Update successful
+2024-11-24 00:18:50,565 - INFO - Received shutdown signal. Cleaning up...
+2024-11-24 00:18:55,412 - INFO - Bot shutdown complete
+2024-11-24 00:19:02,877 - INFO - Starting bot with 10 seconds update interval
+2024-11-24 00:19:02,878 - INFO - Updating leaderboard...
+2024-11-24 00:19:04,045 - ERROR - Error updating leaderboard: 'Response' object has no attribute 'message'
+2024-11-24 00:19:04,045 - INFO - Update successful
+2024-11-24 00:19:05,652 - INFO - Received shutdown signal. Cleaning up...
+2024-11-24 00:19:08,120 - INFO - Starting bot with 10 seconds update interval
+2024-11-24 00:19:08,120 - INFO - Updating leaderboard...
+2024-11-24 00:19:08,837 - INFO - Received shutdown signal. Cleaning up...
+2024-11-24 00:19:09,264 - ERROR - Error updating leaderboard: 'Response' object has no attribute 'message'
+2024-11-24 00:19:09,265 - INFO - Update successful
+2024-11-24 00:19:18,120 - INFO - Bot shutdown complete
+2024-11-24 00:20:11,645 - INFO - Starting bot with 10 seconds update interval
+2024-11-24 00:20:11,646 - INFO - Updating leaderboard...
+2024-11-24 00:20:12,855 - ERROR - Failed to edit Discord message: 400, {"message": "Cannot send an empty message", "code": 50006}
+2024-11-24 00:20:12,855 - ERROR - Error updating leaderboard: Failed to edit Discord message: 400
+2024-11-24 00:20:12,856 - INFO - Update successful
+2024-11-24 00:20:14,762 - INFO - Received shutdown signal. Cleaning up...
+2024-11-24 00:20:18,332 - INFO - Starting bot with 10 seconds update interval
+2024-11-24 00:20:18,332 - INFO - Updating leaderboard...
+2024-11-24 00:20:19,030 - INFO - Received shutdown signal. Cleaning up...
+2024-11-24 00:20:19,717 - ERROR - Failed to edit Discord message: 400, {"message": "Cannot send an empty message", "code": 50006}
+2024-11-24 00:20:19,717 - ERROR - Error updating leaderboard: Failed to edit Discord message: 400
+2024-11-24 00:20:19,717 - INFO - Update successful
+2024-11-24 00:20:28,332 - INFO - Bot shutdown complete
+2024-11-24 00:21:48,515 - INFO - Starting bot with 10 seconds update interval
+2024-11-24 00:21:48,515 - INFO - Updating leaderboard...
+2024-11-24 00:21:50,034 - ERROR - Embed is empty or missing fields, skipping message edit.
+2024-11-24 00:21:50,034 - INFO - Update successful
+2024-11-24 00:21:55,729 - INFO - Received shutdown signal. Cleaning up...
+2024-11-24 00:21:58,515 - INFO - Bot shutdown complete
+2024-11-24 00:22:21,844 - INFO - Starting bot with 10 seconds update interval
+2024-11-24 00:22:21,845 - INFO - Updating leaderboard...
+2024-11-24 00:22:23,254 - INFO - Update successful
+2024-11-24 00:22:25,470 - INFO - Received shutdown signal. Cleaning up...
+2024-11-24 00:22:31,845 - INFO - Bot shutdown complete
+2024-11-24 00:23:08,669 - INFO - Starting bot with 10 seconds update interval
+2024-11-24 00:23:08,669 - INFO - Updating leaderboard...
+2024-11-24 00:23:09,804 - ERROR - Error updating leaderboard: Failed to edit Discord message: 400
+2024-11-24 00:23:09,804 - INFO - Update successful
+2024-11-24 00:23:14,244 - INFO - Received shutdown signal. Cleaning up...
+2024-11-24 00:23:18,669 - INFO - Bot shutdown complete
+2024-11-24 00:23:22,315 - INFO - Starting bot with 10 seconds update interval
+2024-11-24 00:23:22,315 - INFO - Updating leaderboard...
+2024-11-24 00:23:23,832 - ERROR - Error updating leaderboard: Failed to edit Discord message: 400
+2024-11-24 00:23:23,832 - INFO - Update successful
+2024-11-24 00:23:26,577 - INFO - Received shutdown signal. Cleaning up...
+2024-11-24 00:23:32,315 - INFO - Bot shutdown complete
+2024-11-24 00:23:50,129 - INFO - Starting bot with 10 seconds update interval
+2024-11-24 00:23:50,129 - INFO - Updating leaderboard...
+2024-11-24 00:23:51,275 - ERROR - Error updating leaderboard: Failed to edit Discord message: 400
+2024-11-24 00:23:51,276 - INFO - Update successful
+2024-11-24 00:23:55,997 - INFO - Received shutdown signal. Cleaning up...
+2024-11-24 00:24:00,129 - INFO - Bot shutdown complete
+2024-11-24 00:25:35,855 - INFO - Starting bot with 10 seconds update interval
+2024-11-24 00:25:35,855 - INFO - Updating leaderboard...
+2024-11-24 00:25:36,746 - ERROR - Embed is empty or missing fields, skipping message edit. Embed: []
+2024-11-24 00:25:36,747 - INFO - Update successful
+2024-11-24 00:25:45,856 - INFO - Updating leaderboard...
+2024-11-24 00:25:46,679 - ERROR - Embed is empty or missing fields, skipping message edit. Embed: []
+2024-11-24 00:25:46,679 - INFO - Update successful
+2024-11-24 00:25:55,147 - INFO - Received shutdown signal. Cleaning up...
+2024-11-24 00:25:55,856 - INFO - Bot shutdown complete
+2024-11-24 00:26:55,287 - INFO - Starting bot with 10 seconds update interval
+2024-11-24 00:26:55,287 - INFO - Updating leaderboard...
+2024-11-24 00:26:56,209 - ERROR - Embed is empty or missing fields, skipping message edit. Embed: []
+2024-11-24 00:26:56,209 - ERROR - Message ID: 1309999381323317330
+2024-11-24 00:26:56,210 - ERROR - Embeds: [
+  [],
+  [
+    {
+      "title": "\ud83c\udf84 Advent of Code Leaderboard \ud83c\udf84 (Top 1-20)",
+      "fields": [
+        {
+          "name": "1. 943 - TrueBoxGuy",
+          "value": "\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50",
+          "inline": false
+        },
+        {
+          "name": "2. 900 - bendn",
+          "value": "\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50",
+          "inline": false
+        },
+        {
+          "name": "3. 770 - Fjorge",
+          "value": "\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\ud83d\udca4 \u2b50\u2b50\u2b50\u26aa\u2b50\u26aa\u26aa\ud83d\udca4 ",
+          "inline": false
+        },
+        {
+          "name": "4. 761 - Will Killian",
+          "value": "\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50",
+          "inline": false
+        },
+        {
+          "name": "5. 560 - ncn-ends",
+          "value": "\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u26aa\u2b50\u2b50\u2b50\u2b50\ud83d\udca4 \u26aa\u26aa\ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 ",
+          "inline": false
+        },
+        {
+          "name": "6. 412 - sopyb",
+          "value": "\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\ud83d\udca4 \u2b50\ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 ",
+          "inline": false
+        },
+        {
+          "name": "7. 379 - Qther",
+          "value": "\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 ",
+          "inline": false
+        },
+        {
+          "name": "8. 205 - mornyende",
+          "value": "\u2b50\u2b50\u2b50\u2b50\u26aa\u2b50\ud83d\udca4 \u2b50\u2b50\ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 ",
+          "inline": false
+        },
+        {
+          "name": "9. 138 - armv8-a",
+          "value": "\u2b50\u2b50\u2b50\u2b50\ud83d\udca4 \u2b50\ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 ",
+          "inline": false
+        },
+        {
+          "name": "10. 85 - NiChrosia",
+          "value": "\u2b50\u2b50\u2b50\u2b50\ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 ",
+          "inline": false
+        },
+        {
+          "name": "11. 57 - amber jay allison lastname",
+          "value": "\u26aa\ud83d\udca4 \ud83d\udca4 \u26aa\ud83d\udca4 \u2b50\ud83d\udca4 \u26aa\ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 ",
+          "inline": false
+        },
+        {
+          "name": "12. 51 - HPsaucii",
+          "value": "\u2b50\u2b50\ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 ",
+          "inline": false
+        },
+        {
+          "name": "13. 45 - DDev 247",
+          "value": "\u2b50\u2b50\ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 ",
+          "inline": false
+        },
+        {
+          "name": "14. 17 - Asplushii",
+          "value": "\u2b50\ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 ",
+          "inline": false
+        },
+        {
+          "name": "15. 15 - Nixos Goddess",
+          "value": "\u2b50\ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 ",
+          "inline": false
+        },
+        {
+          "name": "16. 0 - (Anonymous User #3027753)",
+          "value": "\ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 ",
+          "inline": false
+        },
+        {
+          "name": "17. 0 - Alex Gravitos",
+          "value": "\ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 ",
+          "inline": false
+        },
+        {
+          "name": "18. 0 - Lily Autumn",
+          "value": "\ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 ",
+          "inline": false
+        },
+        {
+          "name": "19. 0 - Ven",
+          "value": "\ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 ",
+          "inline": false
+        },
+        {
+          "name": "20. 0 - electron271",
+          "value": "\ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 ",
+          "inline": false
+        }
+      ],
+      "timestamp": "2024-11-24T00:26:56.209782",
+      "color": 65280
+    }
+  ]
+]
+2024-11-24 00:26:56,210 - INFO - Update successful
+2024-11-24 00:26:57,436 - INFO - Received shutdown signal. Cleaning up...
+2024-11-24 00:27:05,287 - INFO - Bot shutdown complete
+2024-11-24 00:28:43,698 - INFO - Starting bot with 10 seconds update interval
+2024-11-24 00:28:43,698 - INFO - Updating leaderboard...
+2024-11-24 00:28:44,555 - ERROR - Error updating leaderboard: 'list' object has no attribute 'get'
+2024-11-24 00:28:44,556 - INFO - Update successful
+2024-11-24 00:28:53,698 - INFO - Updating leaderboard...
+2024-11-24 00:28:54,686 - ERROR - Error updating leaderboard: 'list' object has no attribute 'get'
+2024-11-24 00:28:54,686 - INFO - Update successful
+2024-11-24 00:28:55,504 - INFO - Received shutdown signal. Cleaning up...
+2024-11-24 00:29:03,698 - INFO - Bot shutdown complete
+2024-11-24 00:30:06,486 - INFO - Starting bot with 10 seconds update interval
+2024-11-24 00:30:06,486 - INFO - Updating leaderboard...
+2024-11-24 00:30:07,398 - ERROR - Embed is empty, not a dictionary, or missing fields, skipping message edit. Embed: [{'title': '🎄 Advent of Code Leaderboard 🎄 (Top 1-20)', 'fields': [{'name': '1. 943 - TrueBoxGuy', 'value': '⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐', 'inline': False}, {'name': '2. 900 - bendn', 'value': '⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐', 'inline': False}, {'name': '3. 770 - Fjorge', 'value': '⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐💤 ⭐⭐⭐⚪⭐⚪⚪💤 ', 'inline': False}, {'name': '4. 761 - Will Killian', 'value': '⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐', 'inline': False}, {'name': '5. 560 - ncn-ends', 'value': '⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⚪⭐⭐⭐⭐💤 ⚪⚪💤 💤 💤 💤 💤 💤 ', 'inline': False}, {'name': '6. 412 - sopyb', 'value': '⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐💤 ⭐💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 ', 'inline': False}, {'name': '7. 379 - Qther', 'value': '⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 ', 'inline': False}, {'name': '8. 205 - mornyende', 'value': '⭐⭐⭐⭐⚪⭐💤 ⭐⭐💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 ', 'inline': False}, {'name': '9. 138 - armv8-a', 'value': '⭐⭐⭐⭐💤 ⭐💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 ', 'inline': False}, {'name': '10. 85 - NiChrosia', 'value': '⭐⭐⭐⭐💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 ', 'inline': False}, {'name': '11. 57 - amber jay allison lastname', 'value': '⚪💤 💤 ⚪💤 ⭐💤 ⚪💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 ', 'inline': False}, {'name': '12. 51 - HPsaucii', 'value': '⭐⭐💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 ', 'inline': False}, {'name': '13. 45 - DDev 247', 'value': '⭐⭐💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 ', 'inline': False}, {'name': '14. 17 - Asplushii', 'value': '⭐💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 ', 'inline': False}, {'name': '15. 15 - Nixos Goddess', 'value': '⭐💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 ', 'inline': False}, {'name': '16. 0 - (Anonymous User #3027753)', 'value': '💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 ', 'inline': False}, {'name': '17. 0 - Alex Gravitos', 'value': '💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 ', 'inline': False}, {'name': '18. 0 - Lily Autumn', 'value': '💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 ', 'inline': False}, {'name': '19. 0 - Ven', 'value': '💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 ', 'inline': False}, {'name': '20. 0 - electron271', 'value': '💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 ', 'inline': False}], 'timestamp': '2024-11-24T00:30:07.398111', 'color': 65280}]
+2024-11-24 00:30:07,398 - ERROR - Message ID: 1309999381323317330
+2024-11-24 00:30:07,398 - ERROR - Embeds: [
+  [
+    {
+      "title": "\ud83c\udf84 Advent of Code Leaderboard \ud83c\udf84 (Top 1-20)",
+      "fields": [
+        {
+          "name": "1. 943 - TrueBoxGuy",
+          "value": "\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50",
+          "inline": false
+        },
+        {
+          "name": "2. 900 - bendn",
+          "value": "\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50",
+          "inline": false
+        },
+        {
+          "name": "3. 770 - Fjorge",
+          "value": "\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\ud83d\udca4 \u2b50\u2b50\u2b50\u26aa\u2b50\u26aa\u26aa\ud83d\udca4 ",
+          "inline": false
+        },
+        {
+          "name": "4. 761 - Will Killian",
+          "value": "\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50",
+          "inline": false
+        },
+        {
+          "name": "5. 560 - ncn-ends",
+          "value": "\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u26aa\u2b50\u2b50\u2b50\u2b50\ud83d\udca4 \u26aa\u26aa\ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 ",
+          "inline": false
+        },
+        {
+          "name": "6. 412 - sopyb",
+          "value": "\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\ud83d\udca4 \u2b50\ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 ",
+          "inline": false
+        },
+        {
+          "name": "7. 379 - Qther",
+          "value": "\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 ",
+          "inline": false
+        },
+        {
+          "name": "8. 205 - mornyende",
+          "value": "\u2b50\u2b50\u2b50\u2b50\u26aa\u2b50\ud83d\udca4 \u2b50\u2b50\ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 ",
+          "inline": false
+        },
+        {
+          "name": "9. 138 - armv8-a",
+          "value": "\u2b50\u2b50\u2b50\u2b50\ud83d\udca4 \u2b50\ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 ",
+          "inline": false
+        },
+        {
+          "name": "10. 85 - NiChrosia",
+          "value": "\u2b50\u2b50\u2b50\u2b50\ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 ",
+          "inline": false
+        },
+        {
+          "name": "11. 57 - amber jay allison lastname",
+          "value": "\u26aa\ud83d\udca4 \ud83d\udca4 \u26aa\ud83d\udca4 \u2b50\ud83d\udca4 \u26aa\ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 ",
+          "inline": false
+        },
+        {
+          "name": "12. 51 - HPsaucii",
+          "value": "\u2b50\u2b50\ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 ",
+          "inline": false
+        },
+        {
+          "name": "13. 45 - DDev 247",
+          "value": "\u2b50\u2b50\ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 ",
+          "inline": false
+        },
+        {
+          "name": "14. 17 - Asplushii",
+          "value": "\u2b50\ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 ",
+          "inline": false
+        },
+        {
+          "name": "15. 15 - Nixos Goddess",
+          "value": "\u2b50\ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 ",
+          "inline": false
+        },
+        {
+          "name": "16. 0 - (Anonymous User #3027753)",
+          "value": "\ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 ",
+          "inline": false
+        },
+        {
+          "name": "17. 0 - Alex Gravitos",
+          "value": "\ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 ",
+          "inline": false
+        },
+        {
+          "name": "18. 0 - Lily Autumn",
+          "value": "\ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 ",
+          "inline": false
+        },
+        {
+          "name": "19. 0 - Ven",
+          "value": "\ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 ",
+          "inline": false
+        },
+        {
+          "name": "20. 0 - electron271",
+          "value": "\ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 ",
+          "inline": false
+        }
+      ],
+      "timestamp": "2024-11-24T00:30:07.398111",
+      "color": 65280
+    }
+  ]
+]
+2024-11-24 00:30:07,398 - INFO - Update successful
+2024-11-24 00:30:12,074 - INFO - Received shutdown signal. Cleaning up...
+2024-11-24 00:30:16,486 - INFO - Bot shutdown complete
+2024-11-24 00:30:48,330 - INFO - Starting bot with 10 seconds update interval
+2024-11-24 00:30:48,330 - INFO - Updating leaderboard...
+2024-11-24 00:30:49,273 - ERROR - Embed is empty, not a dictionary, or missing fields, skipping message edit. Embed: [{'title': '🎄 Advent of Code Leaderboard 🎄 (Top 1-20)', 'fields': [{'name': '1. 943 - TrueBoxGuy', 'value': '⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐', 'inline': False}, {'name': '2. 900 - bendn', 'value': '⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐', 'inline': False}, {'name': '3. 770 - Fjorge', 'value': '⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐💤 ⭐⭐⭐⚪⭐⚪⚪💤 ', 'inline': False}, {'name': '4. 761 - Will Killian', 'value': '⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐', 'inline': False}, {'name': '5. 560 - ncn-ends', 'value': '⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⚪⭐⭐⭐⭐💤 ⚪⚪💤 💤 💤 💤 💤 💤 ', 'inline': False}, {'name': '6. 412 - sopyb', 'value': '⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐💤 ⭐💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 ', 'inline': False}, {'name': '7. 379 - Qther', 'value': '⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 ', 'inline': False}, {'name': '8. 205 - mornyende', 'value': '⭐⭐⭐⭐⚪⭐💤 ⭐⭐💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 ', 'inline': False}, {'name': '9. 138 - armv8-a', 'value': '⭐⭐⭐⭐💤 ⭐💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 ', 'inline': False}, {'name': '10. 85 - NiChrosia', 'value': '⭐⭐⭐⭐💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 ', 'inline': False}, {'name': '11. 57 - amber jay allison lastname', 'value': '⚪💤 💤 ⚪💤 ⭐💤 ⚪💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 ', 'inline': False}, {'name': '12. 51 - HPsaucii', 'value': '⭐⭐💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 ', 'inline': False}, {'name': '13. 45 - DDev 247', 'value': '⭐⭐💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 ', 'inline': False}, {'name': '14. 17 - Asplushii', 'value': '⭐💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 ', 'inline': False}, {'name': '15. 15 - Nixos Goddess', 'value': '⭐💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 ', 'inline': False}, {'name': '16. 0 - (Anonymous User #3027753)', 'value': '💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 ', 'inline': False}, {'name': '17. 0 - Alex Gravitos', 'value': '💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 ', 'inline': False}, {'name': '18. 0 - Lily Autumn', 'value': '💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 ', 'inline': False}, {'name': '19. 0 - Ven', 'value': '💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 ', 'inline': False}, {'name': '20. 0 - electron271', 'value': '💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 💤 ', 'inline': False}], 'timestamp': '2024-11-24T00:30:49.273072', 'color': 65280}]
+2024-11-24 00:30:49,273 - ERROR - Message ID: 1309999381323317330
+2024-11-24 00:30:49,273 - ERROR - Embeds: [
+  [
+    {
+      "title": "\ud83c\udf84 Advent of Code Leaderboard \ud83c\udf84 (Top 1-20)",
+      "fields": [
+        {
+          "name": "1. 943 - TrueBoxGuy",
+          "value": "\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50",
+          "inline": false
+        },
+        {
+          "name": "2. 900 - bendn",
+          "value": "\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50",
+          "inline": false
+        },
+        {
+          "name": "3. 770 - Fjorge",
+          "value": "\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\ud83d\udca4 \u2b50\u2b50\u2b50\u26aa\u2b50\u26aa\u26aa\ud83d\udca4 ",
+          "inline": false
+        },
+        {
+          "name": "4. 761 - Will Killian",
+          "value": "\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50",
+          "inline": false
+        },
+        {
+          "name": "5. 560 - ncn-ends",
+          "value": "\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u26aa\u2b50\u2b50\u2b50\u2b50\ud83d\udca4 \u26aa\u26aa\ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 ",
+          "inline": false
+        },
+        {
+          "name": "6. 412 - sopyb",
+          "value": "\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\ud83d\udca4 \u2b50\ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 ",
+          "inline": false
+        },
+        {
+          "name": "7. 379 - Qther",
+          "value": "\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 ",
+          "inline": false
+        },
+        {
+          "name": "8. 205 - mornyende",
+          "value": "\u2b50\u2b50\u2b50\u2b50\u26aa\u2b50\ud83d\udca4 \u2b50\u2b50\ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 ",
+          "inline": false
+        },
+        {
+          "name": "9. 138 - armv8-a",
+          "value": "\u2b50\u2b50\u2b50\u2b50\ud83d\udca4 \u2b50\ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 ",
+          "inline": false
+        },
+        {
+          "name": "10. 85 - NiChrosia",
+          "value": "\u2b50\u2b50\u2b50\u2b50\ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 ",
+          "inline": false
+        },
+        {
+          "name": "11. 57 - amber jay allison lastname",
+          "value": "\u26aa\ud83d\udca4 \ud83d\udca4 \u26aa\ud83d\udca4 \u2b50\ud83d\udca4 \u26aa\ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 ",
+          "inline": false
+        },
+        {
+          "name": "12. 51 - HPsaucii",
+          "value": "\u2b50\u2b50\ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 ",
+          "inline": false
+        },
+        {
+          "name": "13. 45 - DDev 247",
+          "value": "\u2b50\u2b50\ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 ",
+          "inline": false
+        },
+        {
+          "name": "14. 17 - Asplushii",
+          "value": "\u2b50\ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 ",
+          "inline": false
+        },
+        {
+          "name": "15. 15 - Nixos Goddess",
+          "value": "\u2b50\ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 ",
+          "inline": false
+        },
+        {
+          "name": "16. 0 - (Anonymous User #3027753)",
+          "value": "\ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 ",
+          "inline": false
+        },
+        {
+          "name": "17. 0 - Alex Gravitos",
+          "value": "\ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 ",
+          "inline": false
+        },
+        {
+          "name": "18. 0 - Lily Autumn",
+          "value": "\ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 ",
+          "inline": false
+        },
+        {
+          "name": "19. 0 - Ven",
+          "value": "\ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 ",
+          "inline": false
+        },
+        {
+          "name": "20. 0 - electron271",
+          "value": "\ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 ",
+          "inline": false
+        }
+      ],
+      "timestamp": "2024-11-24T00:30:49.273072",
+      "color": 65280
+    }
+  ]
+]
+2024-11-24 00:30:49,273 - INFO - Update successful
+2024-11-24 00:30:54,862 - INFO - Received shutdown signal. Cleaning up...
+2024-11-24 00:30:58,330 - INFO - Bot shutdown complete
+2024-11-24 00:32:11,750 - INFO - Starting bot with 10 seconds update interval
+2024-11-24 00:32:11,750 - INFO - Updating leaderboard...
+2024-11-24 00:32:13,253 - ERROR - Failed to edit Discord message: 400, {"embeds": ["0"]}
+2024-11-24 00:32:13,253 - ERROR - Error updating leaderboard: Failed to edit Discord message: 400
+2024-11-24 00:32:13,253 - INFO - Update successful
+2024-11-24 00:32:19,486 - INFO - Received shutdown signal. Cleaning up...
+2024-11-24 00:32:21,751 - INFO - Bot shutdown complete
+2024-11-24 00:33:25,656 - INFO - Starting bot with 10 seconds update interval
+2024-11-24 00:33:25,656 - INFO - Updating leaderboard...
+2024-11-24 00:33:26,871 - ERROR - Failed to edit Discord message: 400, {"embeds": ["0"]}
+2024-11-24 00:33:26,872 - ERROR - Error updating leaderboard: Failed to edit Discord message: 400
+2024-11-24 00:33:26,872 - INFO - Update successful
+2024-11-24 00:33:34,158 - INFO - Received shutdown signal. Cleaning up...
+2024-11-24 00:33:35,657 - INFO - Bot shutdown complete
+2024-11-24 00:33:45,247 - INFO - Starting bot with 10 seconds update interval
+2024-11-24 00:33:45,247 - INFO - Updating leaderboard...
+2024-11-24 00:33:46,629 - ERROR - Failed to edit Discord message: 400, {"embeds": ["0"]}
+2024-11-24 00:33:46,630 - INFO - Payload: {
+  "embeds": [
+    [
+      {
+        "title": "\ud83c\udf84 Advent of Code Leaderboard \ud83c\udf84 (Top 1-20)",
+        "fields": [
+          {
+            "name": "1. 943 - TrueBoxGuy",
+            "value": "\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50",
+            "inline": false
+          },
+          {
+            "name": "2. 900 - bendn",
+            "value": "\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50",
+            "inline": false
+          },
+          {
+            "name": "3. 770 - Fjorge",
+            "value": "\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\ud83d\udca4 \u2b50\u2b50\u2b50\u26aa\u2b50\u26aa\u26aa\ud83d\udca4 ",
+            "inline": false
+          },
+          {
+            "name": "4. 761 - Will Killian",
+            "value": "\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50",
+            "inline": false
+          },
+          {
+            "name": "5. 560 - ncn-ends",
+            "value": "\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u26aa\u2b50\u2b50\u2b50\u2b50\ud83d\udca4 \u26aa\u26aa\ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 ",
+            "inline": false
+          },
+          {
+            "name": "6. 412 - sopyb",
+            "value": "\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\ud83d\udca4 \u2b50\ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 ",
+            "inline": false
+          },
+          {
+            "name": "7. 379 - Qther",
+            "value": "\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\u2b50\ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 ",
+            "inline": false
+          },
+          {
+            "name": "8. 205 - mornyende",
+            "value": "\u2b50\u2b50\u2b50\u2b50\u26aa\u2b50\ud83d\udca4 \u2b50\u2b50\ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 ",
+            "inline": false
+          },
+          {
+            "name": "9. 138 - armv8-a",
+            "value": "\u2b50\u2b50\u2b50\u2b50\ud83d\udca4 \u2b50\ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 ",
+            "inline": false
+          },
+          {
+            "name": "10. 85 - NiChrosia",
+            "value": "\u2b50\u2b50\u2b50\u2b50\ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 ",
+            "inline": false
+          },
+          {
+            "name": "11. 57 - amber jay allison lastname",
+            "value": "\u26aa\ud83d\udca4 \ud83d\udca4 \u26aa\ud83d\udca4 \u2b50\ud83d\udca4 \u26aa\ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 ",
+            "inline": false
+          },
+          {
+            "name": "12. 51 - HPsaucii",
+            "value": "\u2b50\u2b50\ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 ",
+            "inline": false
+          },
+          {
+            "name": "13. 45 - DDev 247",
+            "value": "\u2b50\u2b50\ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 ",
+            "inline": false
+          },
+          {
+            "name": "14. 17 - Asplushii",
+            "value": "\u2b50\ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 ",
+            "inline": false
+          },
+          {
+            "name": "15. 15 - Nixos Goddess",
+            "value": "\u2b50\ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 ",
+            "inline": false
+          },
+          {
+            "name": "16. 0 - (Anonymous User #3027753)",
+            "value": "\ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 ",
+            "inline": false
+          },
+          {
+            "name": "17. 0 - Alex Gravitos",
+            "value": "\ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 ",
+            "inline": false
+          },
+          {
+            "name": "18. 0 - Lily Autumn",
+            "value": "\ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 ",
+            "inline": false
+          },
+          {
+            "name": "19. 0 - Ven",
+            "value": "\ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 ",
+            "inline": false
+          },
+          {
+            "name": "20. 0 - electron271",
+            "value": "\ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 \ud83d\udca4 ",
+            "inline": false
+          }
+        ],
+        "timestamp": "2024-11-24T00:33:46.246492",
+        "color": 65280
+      }
+    ]
+  ],
+  "username": "AoC Leaderboard Bot",
+  "avatar_url": "https://adventofcode.com/favicon.png"
+}
+2024-11-24 00:33:46,630 - ERROR - Error updating leaderboard: Failed to edit Discord message: 400
+2024-11-24 00:33:46,630 - INFO - Update successful
+2024-11-24 00:33:48,199 - INFO - Received shutdown signal. Cleaning up...
+2024-11-24 00:33:55,247 - INFO - Bot shutdown complete
+2024-11-24 00:34:17,751 - INFO - Starting bot with 10 seconds update interval
+2024-11-24 00:34:17,751 - INFO - Updating leaderboard...
+2024-11-24 00:34:19,097 - INFO - Update successful
+2024-11-24 00:34:27,751 - INFO - Updating leaderboard...
+2024-11-24 00:34:29,127 - INFO - Update successful
+2024-11-24 00:34:37,751 - INFO - Updating leaderboard...
+2024-11-24 00:34:38,959 - INFO - Update successful
+2024-11-24 00:34:42,604 - INFO - Received shutdown signal. Cleaning up...
+2024-11-24 00:34:47,751 - INFO - Bot shutdown complete
+2024-11-24 00:35:17,755 - INFO - Starting bot with 10 seconds update interval
+2024-11-24 00:35:17,755 - INFO - Updating leaderboard...
+2024-11-24 00:35:19,098 - INFO - Update successful
+2024-11-24 00:35:27,755 - INFO - Updating leaderboard...
+2024-11-24 00:35:28,189 - INFO - Received shutdown signal. Cleaning up...
+2024-11-24 00:35:28,928 - INFO - Update successful
+2024-11-24 00:35:34,727 - INFO - Starting bot with 10 seconds update interval
+2024-11-24 00:35:34,727 - INFO - Updating leaderboard...
+2024-11-24 00:35:35,913 - INFO - Update successful
+2024-11-24 00:35:43,581 - INFO - Received shutdown signal. Cleaning up...
+2024-11-24 00:35:44,727 - INFO - Bot shutdown complete
+2024-11-24 00:35:51,201 - INFO - Starting bot with 10 seconds update interval
+2024-11-24 00:35:51,201 - INFO - Updating leaderboard...
+2024-11-24 00:35:52,377 - INFO - Update successful
+2024-11-24 00:36:01,201 - INFO - Updating leaderboard...
+2024-11-24 00:36:01,294 - INFO - Received shutdown signal. Cleaning up...
+2024-11-24 00:36:02,515 - INFO - Update successful
+2024-11-24 00:36:11,201 - INFO - Bot shutdown complete
+2024-11-24 00:37:16,073 - INFO - Starting bot with 10 seconds update interval
+2024-11-24 00:37:16,074 - INFO - Updating leaderboard...
+2024-11-24 00:37:17,575 - INFO - Update successful
+2024-11-24 00:37:21,145 - INFO - Received shutdown signal. Cleaning up...
+2024-11-24 00:37:26,074 - INFO - Bot shutdown complete
+2024-11-24 00:37:55,520 - INFO - Starting bot with 10 seconds update interval
+2024-11-24 00:37:55,520 - INFO - Updating leaderboard...
+2024-11-24 00:37:56,897 - INFO - Update successful
+2024-11-24 00:38:05,520 - INFO - Updating leaderboard...
+2024-11-24 00:38:05,670 - INFO - Received shutdown signal. Cleaning up...
+2024-11-24 00:38:06,658 - INFO - Update successful
+2024-11-24 00:38:15,520 - INFO - Bot shutdown complete
+2024-11-24 00:38:49,432 - INFO - Starting bot with 10 seconds update interval
+2024-11-24 00:38:49,432 - INFO - Updating leaderboard...
+2024-11-24 00:38:50,761 - INFO - Update successful
+2024-11-24 00:38:58,429 - INFO - Received shutdown signal. Cleaning up...
+2024-11-24 00:38:59,433 - INFO - Bot shutdown complete
+2024-11-24 00:49:17,753 - INFO - Starting bot with 10 seconds update interval
+2024-11-24 00:49:17,754 - INFO - Updating leaderboard...
+2024-11-24 00:49:18,989 - ERROR - Failed to edit Discord message: 400, {"embeds": ["Embed size exceeds maximum size of 6000"]}
+2024-11-24 00:49:18,989 - INFO - Payload: {
+  "embeds": [
+    {
+      "title": "\ud83c\udf84 Advent of Code Leaderboard \ud83c\udf84 (Top 1-20)",
+      "fields": [
+        {
+          "name": "1. 943 - TrueBoxGuy",
+          "value": "<:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231>",
+          "inline": false
+        },
+        {
+          "name": "2. 900 - bendn",
+          "value": "<:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231>",
+          "inline": false
+        },
+        {
+          "name": "3. 770 - Fjorge",
+          "value": "<:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star0:1310014068022575144><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star1:1310014070019330188><:star2:1310014071579611231><:star1:1310014070019330188><:star1:1310014070019330188><:star0:1310014068022575144>",
+          "inline": false
+        },
+        {
+          "name": "4. 761 - Will Killian",
+          "value": "<:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231>",
+          "inline": false
+        },
+        {
+          "name": "5. 560 - ncn-ends",
+          "value": "<:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star1:1310014070019330188><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star0:1310014068022575144><:star1:1310014070019330188><:star1:1310014070019330188><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144>",
+          "inline": false
+        },
+        {
+          "name": "6. 412 - sopyb",
+          "value": "<:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star0:1310014068022575144><:star2:1310014071579611231><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144>",
+          "inline": false
+        },
+        {
+          "name": "7. 379 - Qther",
+          "value": "<:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144>",
+          "inline": false
+        },
+        {
+          "name": "8. 205 - mornyende",
+          "value": "<:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star1:1310014070019330188><:star2:1310014071579611231><:star0:1310014068022575144><:star2:1310014071579611231><:star2:1310014071579611231><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144>",
+          "inline": false
+        },
+        {
+          "name": "9. 138 - armv8-a",
+          "value": "<:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star0:1310014068022575144><:star2:1310014071579611231><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144>",
+          "inline": false
+        },
+        {
+          "name": "10. 85 - NiChrosia",
+          "value": "<:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144>",
+          "inline": false
+        },
+        {
+          "name": "11. 57 - amber jay allison lastname",
+          "value": "<:star1:1310014070019330188><:star0:1310014068022575144><:star0:1310014068022575144><:star1:1310014070019330188><:star0:1310014068022575144><:star2:1310014071579611231><:star0:1310014068022575144><:star1:1310014070019330188><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144>",
+          "inline": false
+        },
+        {
+          "name": "12. 51 - HPsaucii",
+          "value": "<:star2:1310014071579611231><:star2:1310014071579611231><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144>",
+          "inline": false
+        },
+        {
+          "name": "13. 45 - DDev 247",
+          "value": "<:star2:1310014071579611231><:star2:1310014071579611231><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144>",
+          "inline": false
+        },
+        {
+          "name": "14. 17 - Asplushii",
+          "value": "<:star2:1310014071579611231><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144>",
+          "inline": false
+        },
+        {
+          "name": "15. 15 - Nixos Goddess",
+          "value": "<:star2:1310014071579611231><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144>",
+          "inline": false
+        },
+        {
+          "name": "16. 0 - (Anonymous User #3027753)",
+          "value": "<:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144>",
+          "inline": false
+        },
+        {
+          "name": "17. 0 - Alex Gravitos",
+          "value": "<:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144>",
+          "inline": false
+        },
+        {
+          "name": "18. 0 - Lily Autumn",
+          "value": "<:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144>",
+          "inline": false
+        },
+        {
+          "name": "19. 0 - Ven",
+          "value": "<:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144>",
+          "inline": false
+        },
+        {
+          "name": "20. 0 - electron271",
+          "value": "<:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144>",
+          "inline": false
+        }
+      ],
+      "timestamp": "2024-11-24T00:49:18.581559",
+      "color": 65280
+    }
+  ],
+  "username": "AoC Leaderboard Bot",
+  "avatar_url": "https://adventofcode.com/favicon.png"
+}
+2024-11-24 00:49:18,990 - ERROR - Error updating leaderboard: Failed to edit Discord message: 400
+2024-11-24 00:49:18,990 - INFO - Update successful
+2024-11-24 00:49:26,392 - INFO - Received shutdown signal. Cleaning up...
+2024-11-24 00:49:27,754 - INFO - Bot shutdown complete
+2024-11-24 00:49:44,365 - INFO - Starting bot with 10 seconds update interval
+2024-11-24 00:49:44,365 - INFO - Updating leaderboard...
+2024-11-24 00:49:45,614 - ERROR - Failed to edit Discord message: 400, {"embeds": ["Embed size exceeds maximum size of 6000"]}
+2024-11-24 00:49:45,614 - INFO - Payload: {
+  "embeds": [
+    {
+      "title": "\ud83c\udf84 Advent of Code Leaderboard \ud83c\udf84 (Top 1-20)",
+      "fields": [
+        {
+          "name": "1. 943 - TrueBoxGuy",
+          "value": "<:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231>",
+          "inline": false
+        },
+        {
+          "name": "2. 900 - bendn",
+          "value": "<:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231>",
+          "inline": false
+        },
+        {
+          "name": "3. 770 - Fjorge",
+          "value": "<:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star0:1310014068022575144><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star1:1310014070019330188><:star2:1310014071579611231><:star1:1310014070019330188><:star1:1310014070019330188><:star0:1310014068022575144>",
+          "inline": false
+        },
+        {
+          "name": "4. 761 - Will Killian",
+          "value": "<:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231>",
+          "inline": false
+        },
+        {
+          "name": "5. 560 - ncn-ends",
+          "value": "<:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star1:1310014070019330188><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star0:1310014068022575144><:star1:1310014070019330188><:star1:1310014070019330188><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144>",
+          "inline": false
+        },
+        {
+          "name": "6. 412 - sopyb",
+          "value": "<:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star0:1310014068022575144><:star2:1310014071579611231><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144>",
+          "inline": false
+        },
+        {
+          "name": "7. 379 - Qther",
+          "value": "<:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144>",
+          "inline": false
+        },
+        {
+          "name": "8. 205 - mornyende",
+          "value": "<:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star1:1310014070019330188><:star2:1310014071579611231><:star0:1310014068022575144><:star2:1310014071579611231><:star2:1310014071579611231><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144>",
+          "inline": false
+        },
+        {
+          "name": "9. 138 - armv8-a",
+          "value": "<:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star0:1310014068022575144><:star2:1310014071579611231><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144>",
+          "inline": false
+        },
+        {
+          "name": "10. 85 - NiChrosia",
+          "value": "<:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144>",
+          "inline": false
+        },
+        {
+          "name": "11. 57 - amber jay allison lastname",
+          "value": "<:star1:1310014070019330188><:star0:1310014068022575144><:star0:1310014068022575144><:star1:1310014070019330188><:star0:1310014068022575144><:star2:1310014071579611231><:star0:1310014068022575144><:star1:1310014070019330188><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144>",
+          "inline": false
+        },
+        {
+          "name": "12. 51 - HPsaucii",
+          "value": "<:star2:1310014071579611231><:star2:1310014071579611231><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144>",
+          "inline": false
+        },
+        {
+          "name": "13. 45 - DDev 247",
+          "value": "<:star2:1310014071579611231><:star2:1310014071579611231><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144>",
+          "inline": false
+        },
+        {
+          "name": "14. 17 - Asplushii",
+          "value": "<:star2:1310014071579611231><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144>",
+          "inline": false
+        },
+        {
+          "name": "15. 15 - Nixos Goddess",
+          "value": "<:star2:1310014071579611231><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144>",
+          "inline": false
+        },
+        {
+          "name": "16. 0 - (Anonymous User #3027753)",
+          "value": "<:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144>",
+          "inline": false
+        },
+        {
+          "name": "17. 0 - Alex Gravitos",
+          "value": "<:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144>",
+          "inline": false
+        },
+        {
+          "name": "18. 0 - Lily Autumn",
+          "value": "<:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144>",
+          "inline": false
+        },
+        {
+          "name": "19. 0 - Ven",
+          "value": "<:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144>",
+          "inline": false
+        },
+        {
+          "name": "20. 0 - electron271",
+          "value": "<:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144>",
+          "inline": false
+        }
+      ],
+      "timestamp": "2024-11-24T00:49:45.204206",
+      "color": 65280
+    }
+  ],
+  "username": "AoC Leaderboard Bot",
+  "avatar_url": "https://adventofcode.com/favicon.png"
+}
+2024-11-24 00:49:45,614 - ERROR - Error updating leaderboard: Failed to edit Discord message: 400
+2024-11-24 00:49:45,614 - INFO - Update successful
+2024-11-24 00:49:54,365 - INFO - Updating leaderboard...
+2024-11-24 00:49:56,160 - ERROR - Failed to edit Discord message: 400, {"embeds": ["Embed size exceeds maximum size of 6000"]}
+2024-11-24 00:49:56,160 - INFO - Payload: {
+  "embeds": [
+    {
+      "title": "\ud83c\udf84 Advent of Code Leaderboard \ud83c\udf84 (Top 1-20)",
+      "fields": [
+        {
+          "name": "1. 943 - TrueBoxGuy",
+          "value": "<:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231>",
+          "inline": false
+        },
+        {
+          "name": "2. 900 - bendn",
+          "value": "<:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231>",
+          "inline": false
+        },
+        {
+          "name": "3. 770 - Fjorge",
+          "value": "<:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star0:1310014068022575144><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star1:1310014070019330188><:star2:1310014071579611231><:star1:1310014070019330188><:star1:1310014070019330188><:star0:1310014068022575144>",
+          "inline": false
+        },
+        {
+          "name": "4. 761 - Will Killian",
+          "value": "<:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231>",
+          "inline": false
+        },
+        {
+          "name": "5. 560 - ncn-ends",
+          "value": "<:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star1:1310014070019330188><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star0:1310014068022575144><:star1:1310014070019330188><:star1:1310014070019330188><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144>",
+          "inline": false
+        },
+        {
+          "name": "6. 412 - sopyb",
+          "value": "<:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star0:1310014068022575144><:star2:1310014071579611231><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144>",
+          "inline": false
+        },
+        {
+          "name": "7. 379 - Qther",
+          "value": "<:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144>",
+          "inline": false
+        },
+        {
+          "name": "8. 205 - mornyende",
+          "value": "<:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star1:1310014070019330188><:star2:1310014071579611231><:star0:1310014068022575144><:star2:1310014071579611231><:star2:1310014071579611231><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144>",
+          "inline": false
+        },
+        {
+          "name": "9. 138 - armv8-a",
+          "value": "<:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star0:1310014068022575144><:star2:1310014071579611231><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144>",
+          "inline": false
+        },
+        {
+          "name": "10. 85 - NiChrosia",
+          "value": "<:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144>",
+          "inline": false
+        },
+        {
+          "name": "11. 57 - amber jay allison lastname",
+          "value": "<:star1:1310014070019330188><:star0:1310014068022575144><:star0:1310014068022575144><:star1:1310014070019330188><:star0:1310014068022575144><:star2:1310014071579611231><:star0:1310014068022575144><:star1:1310014070019330188><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144>",
+          "inline": false
+        },
+        {
+          "name": "12. 51 - HPsaucii",
+          "value": "<:star2:1310014071579611231><:star2:1310014071579611231><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144>",
+          "inline": false
+        },
+        {
+          "name": "13. 45 - DDev 247",
+          "value": "<:star2:1310014071579611231><:star2:1310014071579611231><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144>",
+          "inline": false
+        },
+        {
+          "name": "14. 17 - Asplushii",
+          "value": "<:star2:1310014071579611231><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144>",
+          "inline": false
+        },
+        {
+          "name": "15. 15 - Nixos Goddess",
+          "value": "<:star2:1310014071579611231><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144>",
+          "inline": false
+        },
+        {
+          "name": "16. 0 - (Anonymous User #3027753)",
+          "value": "<:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144>",
+          "inline": false
+        },
+        {
+          "name": "17. 0 - Alex Gravitos",
+          "value": "<:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144>",
+          "inline": false
+        },
+        {
+          "name": "18. 0 - Lily Autumn",
+          "value": "<:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144>",
+          "inline": false
+        },
+        {
+          "name": "19. 0 - Ven",
+          "value": "<:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144>",
+          "inline": false
+        },
+        {
+          "name": "20. 0 - electron271",
+          "value": "<:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144>",
+          "inline": false
+        }
+      ],
+      "timestamp": "2024-11-24T00:49:55.648998",
+      "color": 65280
+    }
+  ],
+  "username": "AoC Leaderboard Bot",
+  "avatar_url": "https://adventofcode.com/favicon.png"
+}
+2024-11-24 00:49:56,167 - ERROR - Error updating leaderboard: Failed to edit Discord message: 400
+2024-11-24 00:49:56,167 - INFO - Update successful
+2024-11-24 00:49:58,491 - INFO - Received shutdown signal. Cleaning up...
+2024-11-24 00:50:02,500 - INFO - Starting bot with 10 seconds update interval
+2024-11-24 00:50:02,500 - INFO - Updating leaderboard...
+2024-11-24 00:50:04,047 - ERROR - Failed to edit Discord message: 400, {"embeds": ["Embed size exceeds maximum size of 6000"]}
+2024-11-24 00:50:04,047 - INFO - Payload: {
+  "embeds": [
+    {
+      "title": "\ud83c\udf84 Advent of Code Leaderboard \ud83c\udf84 (Top 1-20)",
+      "fields": [
+        {
+          "name": "1. 943 - TrueBoxGuy",
+          "value": "<:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231>",
+          "inline": false
+        },
+        {
+          "name": "2. 900 - bendn",
+          "value": "<:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231>",
+          "inline": false
+        },
+        {
+          "name": "3. 770 - Fjorge",
+          "value": "<:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star0:1310014068022575144><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star1:1310014070019330188><:star2:1310014071579611231><:star1:1310014070019330188><:star1:1310014070019330188><:star0:1310014068022575144>",
+          "inline": false
+        },
+        {
+          "name": "4. 761 - Will Killian",
+          "value": "<:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231>",
+          "inline": false
+        },
+        {
+          "name": "5. 560 - ncn-ends",
+          "value": "<:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star1:1310014070019330188><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star0:1310014068022575144><:star1:1310014070019330188><:star1:1310014070019330188><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144>",
+          "inline": false
+        },
+        {
+          "name": "6. 412 - sopyb",
+          "value": "<:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star0:1310014068022575144><:star2:1310014071579611231><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144>",
+          "inline": false
+        },
+        {
+          "name": "7. 379 - Qther",
+          "value": "<:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144>",
+          "inline": false
+        },
+        {
+          "name": "8. 205 - mornyende",
+          "value": "<:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star1:1310014070019330188><:star2:1310014071579611231><:star0:1310014068022575144><:star2:1310014071579611231><:star2:1310014071579611231><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144>",
+          "inline": false
+        },
+        {
+          "name": "9. 138 - armv8-a",
+          "value": "<:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star0:1310014068022575144><:star2:1310014071579611231><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144>",
+          "inline": false
+        },
+        {
+          "name": "10. 85 - NiChrosia",
+          "value": "<:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144>",
+          "inline": false
+        },
+        {
+          "name": "11. 57 - amber jay allison lastname",
+          "value": "<:star1:1310014070019330188><:star0:1310014068022575144><:star0:1310014068022575144><:star1:1310014070019330188><:star0:1310014068022575144><:star2:1310014071579611231><:star0:1310014068022575144><:star1:1310014070019330188><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144>",
+          "inline": false
+        },
+        {
+          "name": "12. 51 - HPsaucii",
+          "value": "<:star2:1310014071579611231><:star2:1310014071579611231><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144>",
+          "inline": false
+        },
+        {
+          "name": "13. 45 - DDev 247",
+          "value": "<:star2:1310014071579611231><:star2:1310014071579611231><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144>",
+          "inline": false
+        },
+        {
+          "name": "14. 17 - Asplushii",
+          "value": "<:star2:1310014071579611231><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144>",
+          "inline": false
+        },
+        {
+          "name": "15. 15 - Nixos Goddess",
+          "value": "<:star2:1310014071579611231><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144>",
+          "inline": false
+        },
+        {
+          "name": "16. 0 - (Anonymous User #3027753)",
+          "value": "<:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144>",
+          "inline": false
+        },
+        {
+          "name": "17. 0 - Alex Gravitos",
+          "value": "<:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144>",
+          "inline": false
+        },
+        {
+          "name": "18. 0 - Lily Autumn",
+          "value": "<:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144>",
+          "inline": false
+        },
+        {
+          "name": "19. 0 - Ven",
+          "value": "<:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144>",
+          "inline": false
+        },
+        {
+          "name": "20. 0 - electron271",
+          "value": "<:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144>",
+          "inline": false
+        }
+      ],
+      "timestamp": "2024-11-24T00:50:03.534572",
+      "color": 65280
+    }
+  ],
+  "username": "AoC Leaderboard Bot",
+  "avatar_url": "https://adventofcode.com/favicon.png"
+}
+2024-11-24 00:50:04,047 - ERROR - Error updating leaderboard: Failed to edit Discord message: 400
+2024-11-24 00:50:04,048 - INFO - Update successful
+2024-11-24 00:50:05,435 - INFO - Received shutdown signal. Cleaning up...
+2024-11-24 00:50:12,500 - INFO - Bot shutdown complete
+2024-11-24 00:50:38,429 - INFO - Starting bot with 10 seconds update interval
+2024-11-24 00:50:38,429 - INFO - Updating leaderboard...
+2024-11-24 00:50:39,597 - ERROR - Failed to edit Discord message: 400, {"embeds": ["Embed size exceeds maximum size of 6000"]}
+2024-11-24 00:50:39,597 - INFO - Payload: {
+  "embeds": [
+    {
+      "title": "\ud83c\udf84 Advent of Code Leaderboard \ud83c\udf84 (Top 1-10)",
+      "fields": [
+        {
+          "name": "1. 943 - TrueBoxGuy",
+          "value": "<:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231>",
+          "inline": false
+        },
+        {
+          "name": "2. 900 - bendn",
+          "value": "<:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231>",
+          "inline": false
+        },
+        {
+          "name": "3. 770 - Fjorge",
+          "value": "<:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star0:1310014068022575144><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star1:1310014070019330188><:star2:1310014071579611231><:star1:1310014070019330188><:star1:1310014070019330188><:star0:1310014068022575144>",
+          "inline": false
+        },
+        {
+          "name": "4. 761 - Will Killian",
+          "value": "<:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231>",
+          "inline": false
+        },
+        {
+          "name": "5. 560 - ncn-ends",
+          "value": "<:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star1:1310014070019330188><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star0:1310014068022575144><:star1:1310014070019330188><:star1:1310014070019330188><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144>",
+          "inline": false
+        },
+        {
+          "name": "6. 412 - sopyb",
+          "value": "<:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star0:1310014068022575144><:star2:1310014071579611231><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144>",
+          "inline": false
+        },
+        {
+          "name": "7. 379 - Qther",
+          "value": "<:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144>",
+          "inline": false
+        },
+        {
+          "name": "8. 205 - mornyende",
+          "value": "<:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star1:1310014070019330188><:star2:1310014071579611231><:star0:1310014068022575144><:star2:1310014071579611231><:star2:1310014071579611231><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144>",
+          "inline": false
+        },
+        {
+          "name": "9. 138 - armv8-a",
+          "value": "<:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star0:1310014068022575144><:star2:1310014071579611231><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144>",
+          "inline": false
+        },
+        {
+          "name": "10. 85 - NiChrosia",
+          "value": "<:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144>",
+          "inline": false
+        }
+      ],
+      "timestamp": "2024-11-24T00:50:39.272010",
+      "color": 65280
+    }
+  ],
+  "username": "AoC Leaderboard Bot",
+  "avatar_url": "https://adventofcode.com/favicon.png"
+}
+2024-11-24 00:50:39,597 - ERROR - Error updating leaderboard: Failed to edit Discord message: 400
+2024-11-24 00:50:39,598 - INFO - Update successful
+2024-11-24 00:50:48,429 - INFO - Updating leaderboard...
+2024-11-24 00:50:48,717 - INFO - Received shutdown signal. Cleaning up...
+2024-11-24 00:50:49,613 - ERROR - Failed to edit Discord message: 400, {"embeds": ["Embed size exceeds maximum size of 6000"]}
+2024-11-24 00:50:49,614 - INFO - Payload: {
+  "embeds": [
+    {
+      "title": "\ud83c\udf84 Advent of Code Leaderboard \ud83c\udf84 (Top 1-10)",
+      "fields": [
+        {
+          "name": "1. 943 - TrueBoxGuy",
+          "value": "<:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231>",
+          "inline": false
+        },
+        {
+          "name": "2. 900 - bendn",
+          "value": "<:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231>",
+          "inline": false
+        },
+        {
+          "name": "3. 770 - Fjorge",
+          "value": "<:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star0:1310014068022575144><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star1:1310014070019330188><:star2:1310014071579611231><:star1:1310014070019330188><:star1:1310014070019330188><:star0:1310014068022575144>",
+          "inline": false
+        },
+        {
+          "name": "4. 761 - Will Killian",
+          "value": "<:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231>",
+          "inline": false
+        },
+        {
+          "name": "5. 560 - ncn-ends",
+          "value": "<:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star1:1310014070019330188><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star0:1310014068022575144><:star1:1310014070019330188><:star1:1310014070019330188><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144>",
+          "inline": false
+        },
+        {
+          "name": "6. 412 - sopyb",
+          "value": "<:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star0:1310014068022575144><:star2:1310014071579611231><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144>",
+          "inline": false
+        },
+        {
+          "name": "7. 379 - Qther",
+          "value": "<:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144>",
+          "inline": false
+        },
+        {
+          "name": "8. 205 - mornyende",
+          "value": "<:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star1:1310014070019330188><:star2:1310014071579611231><:star0:1310014068022575144><:star2:1310014071579611231><:star2:1310014071579611231><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144>",
+          "inline": false
+        },
+        {
+          "name": "9. 138 - armv8-a",
+          "value": "<:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star0:1310014068022575144><:star2:1310014071579611231><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144>",
+          "inline": false
+        },
+        {
+          "name": "10. 85 - NiChrosia",
+          "value": "<:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star2:1310014071579611231><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144><:star0:1310014068022575144>",
+          "inline": false
+        }
+      ],
+      "timestamp": "2024-11-24T00:50:49.210355",
+      "color": 65280
+    }
+  ],
+  "username": "AoC Leaderboard Bot",
+  "avatar_url": "https://adventofcode.com/favicon.png"
+}
+2024-11-24 00:50:49,614 - ERROR - Error updating leaderboard: Failed to edit Discord message: 400
+2024-11-24 00:50:49,614 - INFO - Update successful
+2024-11-24 00:50:58,429 - INFO - Bot shutdown complete
+2024-11-24 00:52:22,992 - INFO - Starting bot with 10 seconds update interval
+2024-11-24 00:52:22,992 - INFO - Updating leaderboard...
+2024-11-24 00:52:25,164 - INFO - Update successful
+2024-11-24 00:52:32,992 - INFO - Updating leaderboard...
+2024-11-24 00:52:34,475 - INFO - Update successful
+2024-11-24 00:52:36,445 - INFO - Received shutdown signal. Cleaning up...
+2024-11-24 00:52:42,992 - INFO - Bot shutdown complete
+2024-11-24 00:52:51,470 - INFO - Starting bot with 10 seconds update interval
+2024-11-24 00:52:51,470 - INFO - Updating leaderboard...
+2024-11-24 00:52:54,444 - INFO - Update successful
+2024-11-24 00:53:01,470 - INFO - Updating leaderboard...
+2024-11-24 00:53:04,793 - INFO - Received shutdown signal. Cleaning up...
+2024-11-24 00:53:05,406 - INFO - Update successful
+2024-11-24 00:53:11,470 - INFO - Bot shutdown complete
+2024-11-24 00:57:06,095 - INFO - Starting bot with 10 seconds update interval
+2024-11-24 00:57:06,095 - INFO - Updating leaderboard...
+2024-11-24 00:57:07,064 - ERROR - Error updating leaderboard: name 'field_value' is not defined
+2024-11-24 00:57:07,064 - INFO - Update successful
+2024-11-24 00:57:07,818 - INFO - Received shutdown signal. Cleaning up...
+2024-11-24 00:57:16,095 - INFO - Bot shutdown complete
+2024-11-24 00:58:20,238 - INFO - Starting bot with 10 seconds update interval
+2024-11-24 00:58:20,238 - INFO - Updating leaderboard...
+2024-11-24 00:58:20,995 - ERROR - Error updating leaderboard: name 'year' is not defined
+2024-11-24 00:58:20,995 - INFO - Update successful
+2024-11-24 00:58:30,238 - INFO - Updating leaderboard...
+2024-11-24 00:58:31,338 - ERROR - Error updating leaderboard: name 'year' is not defined
+2024-11-24 00:58:31,339 - INFO - Update successful
+2024-11-24 00:58:38,037 - INFO - Received shutdown signal. Cleaning up...
+2024-11-24 00:58:40,239 - INFO - Bot shutdown complete
+2024-11-24 00:58:40,417 - INFO - Starting bot with 10 seconds update interval
+2024-11-24 00:58:40,417 - INFO - Updating leaderboard...
+2024-11-24 00:58:41,067 - ERROR - Error updating leaderboard: name 'year' is not defined
+2024-11-24 00:58:41,067 - INFO - Update successful
+2024-11-24 00:58:43,208 - INFO - Received shutdown signal. Cleaning up...
+2024-11-24 00:58:50,417 - INFO - Bot shutdown complete
+2024-11-24 00:59:25,848 - INFO - Starting bot with 10 seconds update interval
+2024-11-24 00:59:25,848 - INFO - Updating leaderboard...
+2024-11-24 00:59:32,084 - INFO - Update successful
+2024-11-24 00:59:35,848 - INFO - Updating leaderboard...
+2024-11-24 00:59:37,182 - INFO - Update successful
+2024-11-24 00:59:40,911 - INFO - Received shutdown signal. Cleaning up...
+2024-11-24 00:59:45,848 - INFO - Bot shutdown complete
+2024-11-24 01:00:55,369 - INFO - Starting bot with 10 seconds update interval
+2024-11-24 01:00:55,370 - INFO - Updating leaderboard...
+2024-11-24 01:00:56,442 - INFO - Update successful
+2024-11-24 01:01:05,370 - INFO - Updating leaderboard...
+2024-11-24 01:01:06,580 - INFO - Update successful
+2024-11-24 01:01:14,920 - INFO - Received shutdown signal. Cleaning up...
+2024-11-24 01:01:15,370 - INFO - Bot shutdown complete
+2024-11-24 01:01:34,859 - INFO - Starting bot with 10 seconds update interval
+2024-11-24 01:01:34,859 - INFO - Updating leaderboard...
+2024-11-24 01:01:35,774 - ERROR - Error updating leaderboard: cannot access local variable 'field_value' where it is not associated with a value
+2024-11-24 01:01:35,774 - INFO - Update successful
+2024-11-24 01:01:44,378 - INFO - Received shutdown signal. Cleaning up...
+2024-11-24 01:01:44,859 - INFO - Bot shutdown complete
+2024-11-24 01:05:43,515 - INFO - Starting bot with 10 seconds update interval
+2024-11-24 01:05:43,515 - INFO - Updating leaderboard...
+2024-11-24 01:05:44,493 - ERROR - Error updating leaderboard: cannot access local variable 'field_value' where it is not associated with a value
+2024-11-24 01:05:44,493 - INFO - Update successful
+2024-11-24 01:05:48,302 - INFO - Received shutdown signal. Cleaning up...
+2024-11-24 01:05:53,515 - INFO - Bot shutdown complete
+2024-11-24 01:07:09,762 - INFO - Starting bot with 10 seconds update interval
+2024-11-24 01:07:09,762 - INFO - Updating leaderboard...
+2024-11-24 01:07:13,013 - INFO - Update successful
+2024-11-24 01:07:14,619 - INFO - Received shutdown signal. Cleaning up...
+2024-11-24 01:07:19,762 - INFO - Bot shutdown complete
+2024-11-24 01:11:51,467 - INFO - Starting bot with 10 seconds update interval
+2024-11-24 01:11:51,468 - INFO - Updating leaderboard...
+2024-11-24 01:11:55,495 - INFO - Update successful
+2024-11-24 01:12:01,468 - INFO - Updating leaderboard...
+2024-11-24 01:12:02,291 - INFO - Received shutdown signal. Cleaning up...
+2024-11-24 01:12:05,245 - INFO - Update successful
+2024-11-24 01:12:11,468 - INFO - Bot shutdown complete
+2024-11-24 01:13:55,333 - INFO - Starting bot with 10 seconds update interval
+2024-11-24 01:13:55,333 - INFO - Updating leaderboard...
+2024-11-24 01:13:57,798 - INFO - Update successful
+2024-11-24 01:14:05,333 - INFO - Updating leaderboard...
+2024-11-24 01:14:06,883 - INFO - Update successful
+2024-11-24 01:14:11,245 - INFO - Received shutdown signal. Cleaning up...
+2024-11-24 01:14:15,334 - INFO - Bot shutdown complete
+2024-11-24 01:15:11,017 - INFO - Starting bot with 10 seconds update interval
+2024-11-24 01:15:11,017 - INFO - Updating leaderboard...
+2024-11-24 01:15:12,417 - INFO - Update successful
+2024-11-24 01:15:21,017 - INFO - Updating leaderboard...
+2024-11-24 01:15:23,166 - INFO - Update successful
+2024-11-24 01:15:31,017 - INFO - Updating leaderboard...
+2024-11-24 01:15:33,005 - INFO - Update successful
+2024-11-24 01:15:40,306 - INFO - Received shutdown signal. Cleaning up...
+2024-11-24 01:15:41,017 - INFO - Bot shutdown complete
+2024-11-24 01:16:53,792 - INFO - Starting bot with 10 seconds update interval
+2024-11-24 01:16:53,792 - INFO - Updating leaderboard...
+2024-11-24 01:16:55,428 - ERROR - Error updating leaderboard: Failed to send Discord message: 400
+2024-11-24 01:16:55,428 - INFO - Update successful
+2024-11-24 01:16:56,732 - INFO - Received shutdown signal. Cleaning up...
+2024-11-24 01:17:03,792 - INFO - Bot shutdown complete
+2024-11-24 01:17:05,198 - INFO - Starting bot with 10 seconds update interval
+2024-11-24 01:17:05,198 - INFO - Updating leaderboard...
+2024-11-24 01:17:09,974 - INFO - Update successful
+2024-11-24 01:17:11,160 - INFO - Received shutdown signal. Cleaning up...
+2024-11-24 01:17:15,198 - INFO - Bot shutdown complete
+2024-11-24 01:27:03,453 - INFO - Starting bot with 900 seconds update interval
+2024-11-24 01:27:03,453 - INFO - Updating leaderboard...
+2024-11-24 01:27:07,336 - INFO - Update successful
+2024-11-24 01:27:09,194 - INFO - Received shutdown signal. Cleaning up...
+2024-11-24 01:28:07,336 - INFO - Bot shutdown complete
