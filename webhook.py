@@ -172,7 +172,7 @@ class AoCDiscordBot:
                 embed = {
                     "title": f"🎄 Advent of Code Leaderboard 🎄 (Top {i + 1}-{i + len(chunk)})",
                     "fields": fields,
-                    "timestamp": datetime.now().isoformat(),
+                    "timestamp": datetime.utcnow().isoformat(),
                     "color": 0x00ff00
                 }
                 all_embeds.append(embed)
