@@ -120,6 +120,9 @@ class AoCDiscordBot:
 
         sorted_members = sorted_members_with_stars + sorted_members_without_stars
 
+        # Filter out Debian-community account
+        sorted_members = [m for m in sorted_members if m['name'] != 'Debian-Community']
+
         all_embeds = []
         for i in range(0, min(len(sorted_members), 200), 5):
             chunk = sorted_members[i:i + 5]
@@ -136,11 +139,11 @@ class AoCDiscordBot:
                     if day_key in member['completion_day_level']:
                         stars = member['completion_day_level'][day_key]
                         if '2' in stars:
-                            stars_per_day.append("<:star2:1310014071579611231>")
+                            stars_per_day.append("<:star_2:1311046383817457674>")
                         else:
-                            stars_per_day.append("<:star1:1310014070019330188>")
+                            stars_per_day.append("<:star_1:1311046355581665413>")
                     else:
-                        stars_per_day.append("<:star0:1310014068022575144>")
+                        stars_per_day.append("<:star_0:1311046317929267333>")
 
                     field_value = "".join(stars_per_day)
 
